@@ -1,0 +1,6 @@
+framework module Pods_Follow_Your_RepsUITests {
+  umbrella header "Pods-Follow Your RepsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
